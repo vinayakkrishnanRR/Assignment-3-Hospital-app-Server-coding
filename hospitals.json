@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Medicity",
+    "patientCount": 200,
+    "location": "Ayyathil"
+  },
+  {
+    "name": "N.S Hospital",
+    "patientCount": 100,
+    "location": "kollam"
+  },
+  {
+    "name": "Upasana Hospital",
+    "patientCount": 150,
+    "location": "medayilmukku"
+  }
+]
